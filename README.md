@@ -4,6 +4,7 @@
  
 * [Introdução](#introdução)
 * [Descrição](#descrição)
+* [Oque alteramos](#oque-alteramos)
 * [Fontes Utilizadas](#fontes-utilizadas)
 * [Autor](#autor)
 * [Resultado](#resultado)
@@ -40,6 +41,8 @@ Cadastro de Usuários:
 
 ° Se o nome for informado, ele é armazenado em um array chamado ´´dadosLista´´, que mantém todos os nomes cadastrados.
 
+## Oque alteramos
+Campos para inserir um nome e e-mail, e um botão "SALVAR". Após preencher esses campos e clicar no botão, o nome e e-mail são adicionados à tabela abaixo. Na tabela, você pode ver botões para editar ou excluir registros existentes.
 
 ## Fontes Utilizadas
 [CHAT GPT](https://chatgpt.com/)
